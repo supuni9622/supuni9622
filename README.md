@@ -1,49 +1,61 @@
+# Hey there! I'm Supuni Manamperi 👋
 
+**Senior Software Engineer & Product Lead** building scalable SaaS platforms at the intersection of engineering, product, and applied AI.
 
-<h2> Hey there! I'm Supuni Manamperi.</h2>
+📍 Sri Lanka · Open to senior engineering / tech lead roles (hybrid SL or remote global)
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+---
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Management and Information Technology  at the University of Kelaniya, Sri Lanka.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, and Artificial Intelligence.
+## 🚀 What I Do
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+I design and scale full-stack SaaS systems across customer engagement, analytics, and AI-driven products. Currently leading engineering for the **MarketBuzz** analytics & engagement suite on the Clover App Market at **ShoutOUT Labs**, and expanding it into the ChatGPT ecosystem.
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+I'm actively moving deeper into **Applied Generative AI Engineering** — building RAG systems, AI agents, agentic workflows, and MCP-based products on top of modern LLMs.
 
-<br/>
+---
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supuni9622&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supuni9622&theme=buefy&layout=compact" />
-</a>
+## 🛠️ Core Focus
 
-<br/>
+- **Scalable SaaS architecture** & microservices
+- **AI-integrated product development** — RAG, agents, MCP servers
+- **Event-driven systems** — Kafka, queues, analytics pipelines
+- **High-performance analytics** with ClickHouse
+- **Production reliability** & DevOps automation
+- **System design** & cross-functional product delivery
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+---
 
-<p align="center">
-<a href="www.linkedin.com/in/supuni-manamperi-bb5baa176"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Supuni%20Manamperi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:supunimanamperi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-supunimanamperi@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+## 🧰 Tech Stack
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+**Languages** · TypeScript · JavaScript · Python
+
+**Frontend** · React · Next.js · Tailwind CSS
+
+**Backend** · Node.js · FastAPI · REST APIs
+
+**Data** · MongoDB · MySQL · ClickHouse · Redis
+
+**AI / GenAI** · LangChain · LangGraph · MCP · RAG · Vector DBs
+
+**Infra & Tooling** · Docker · Kafka · Git · Vercel
+
+---
+
+## 🏗️ Selected Work
+
+- Designed **MCP-based architecture** for ChatGPT App integration
+- Built **high-performance analytics pipelines** on ClickHouse
+- Architected **automated campaign engines** with event-driven pipelines
+- Led technical delivery & production ops for live SaaS platforms
+- Building a **Python travel-planner agent** (FastAPI + LangChain + LangGraph + custom MCP server)
+
+---
+
+## 🌱 Currently
+
+Self-studying toward **Applied GenAI Engineering** — building and integrating RAG systems, AI agents, and MCP products on existing LLMs, with the goal of shipping new AI-native products.
+
+## 📫 Connect
+
+- 💼 [LinkedIn](#) <!-- https://www.linkedin.com/in/supuni-manamperi/ -->
+- 🏢 ShoutOUT Labs
